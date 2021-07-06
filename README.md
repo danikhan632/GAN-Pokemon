@@ -1,8 +1,8 @@
 # pokeGAN
 
 ## Overview
-Google Colabatory Link: https://colab.research.google.com/drive/1CVpzWmrZuc_vxuqhOI2D0EpMeLUifdlo?usp=sharing
-This code utilizes a General Adversarial network that takes existing images of Pokemon 
+Google Colabatory Link: https://colab.research.google.com/drive/1CVpzWmrZuc_vxuqhOI2D0EpMeLUifdlo?usp=sharing \
+This code utilizes a General Adversarial network that takes existing images of Pokemon \
 
 ## Dependencies (pip install) 
 ```
