@@ -2,7 +2,7 @@
 
 ## Overview
 Google Colabatory Link: https://colab.research.google.com/drive/1CVpzWmrZuc_vxuqhOI2D0EpMeLUifdlo?usp=sharing \
-This code utilizes a General Adversarial network that takes existing images of Pokemon 
+This code utilizes a General Adversarial network that takes existing images of Pokemon to create new images of Pokemon
 
 ## Dependencies (pip install) 
 ```
